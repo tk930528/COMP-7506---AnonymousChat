@@ -24,8 +24,8 @@ https://github.com/tk930528/COMP-7506---AnonymousChat/assets/168002868/62f748f7-
 ```
 git clone https://github.com/tk930528/COMP-7506---AnonymousChat.git
 ```
-* Ensure you use Xcode version 14 or above.
-* Ensure simulator dependencies are compatible with iOS 15 or above.
+* Ensure you use Xcode version 15.2 or above.
+* Ensure simulator dependencies are compatible with iOS 17.2 or above.
 * All dependencies will be installed automatically by the ```Swift Package Manager``` once you open the project.
 
 ### Executing application
