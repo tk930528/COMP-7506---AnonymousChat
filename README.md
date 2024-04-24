@@ -1,6 +1,6 @@
 # AnonymousChat
 
-A simple iOS nearby chat app which support text, inamge and video
+A simple iOS nearby chat app which support text, image and video
 
 https://github.com/tk930528/COMP-7506---AnonymousChat/assets/168002868/e7fcacae-f764-494f-8a7f-814ff2572922
 
