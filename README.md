@@ -41,7 +41,7 @@ git clone https://github.com/tk930528/COMP-7506---AnonymousChat.git
 8. Run the project by ```Command + R```
 
 #### Build with termainal (not recommand)
-1. Repeat the 1 to 5 from manual steps
+1. Repeat 1 to 5 from manual steps
 2. Open terminal
 3. Run ```xcodebuild build -project <Your Project Directory>/AnonymousChat.xcodeproj -scheme AnonymousChat -allowProvisioningUpdates``` to build the .App in xcode
 4. Run ```xcrun simctl boot "iPhone 15 Pro"``` to open a simulator, you could choose any installed devices as you like
